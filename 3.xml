@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<person name="Yaroslav" age="22" status="student">
+    <title>
+        Skills
+    </title>
+    <skill n="1">
+        <python v="3.0">
+            <django how="to bad to say" />
+        </python>
+    </skill>
+    <skill n="2">
+        <http_https>
+            <html v="5.0" />
+            <css v="3.0" />
+            <!-- <javascrypt when="soon"/> -->
+        </http_https>
+    </skill>
+    <skill n="3">
+        <SQL />
+    </skill>
+    <skill n="4">
+        <DOM />
+    </skill>
+    <skill n="5">
+        <SSL_TLS />
+    </skill>
+</person>
